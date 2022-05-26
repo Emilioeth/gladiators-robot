@@ -205,7 +205,7 @@ var shop = function() {
       window.alert("You did not pick a valid option. Try again.");
       shop();
       break;
-  }
+ }
 
 };
 
